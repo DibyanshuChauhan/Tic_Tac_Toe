@@ -26,7 +26,7 @@ A simple and fun implementation of the classic Tic-Tac-Toe game built using HTML
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/DibyanshuChauhan/tic-tac-toe.git
    ```
 
 2. Navigate to the project directory:
