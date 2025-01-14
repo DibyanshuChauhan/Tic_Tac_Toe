@@ -32,7 +32,7 @@ A simple and fun implementation of the classic Tic-Tac-Toe game built using HTML
 2. Navigate to the project directory:
 
    ```bash
-   cd tic-tac-toe
+   cd Tic-Tac-Toe
    ```
 
 3. Open `index.html` in your favorite web browser.
